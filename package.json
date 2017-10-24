@@ -1,0 +1,22 @@
+{
+  "name": "match-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-x/match-object.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-x/match-object/issues"
+  },
+  "homepage": "https://github.com/dev-x/match-object#readme",
+  "dependencies": {
+    "lodash.isplainobject": "^4.0.6"
+  }
+}
